@@ -1,0 +1,7 @@
+shiny
+quantmod
+forecast
+plotly
+shinythemes
+tidyverse
+shinyWidgets
